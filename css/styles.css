@@ -1,0 +1,28 @@
+/* Navigation Bar */
+
+.navbar {
+    background-color: rgb(22, 27, 32) !important;
+}
+
+.navbar-brand {
+    background-color: rgb(22, 27, 32);
+    color: darkgoldenrod;
+    font-family: 'Allura', cursive;
+}
+
+.hogwartscrest {
+    padding-right: 0.5rem;
+}
+/* Burger Button */
+.navbar-toggler {
+    background-color: darkgoldenrod;
+    margin-right: 0.5rem;
+}
+
+.navbar-toggler-item {
+    color: rgb(22, 27, 32);
+}
+
+.offcanvas-backdrop {
+   background-color: transparent;
+}
